@@ -1,0 +1,16 @@
+.pokemonCard {
+    display: flex;
+    flex-direction: column;
+    border: 2px solid black;
+    box-shadow: 5px 5px black;
+    align-items: center;
+    height: 300px;
+    width: 150px;
+    padding: 10px;
+}
+
+.abilities {
+    display: flex;
+    flex-direction: column;
+}
+
